@@ -7,5 +7,5 @@ This was made for my homelab.
 
 # How to use:
 
-python3 server_status.py
+python3 server_status.py  
 python3 server_status.py -v 
