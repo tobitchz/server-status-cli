@@ -1,6 +1,6 @@
 # server-status-cli
 
-A CLI made in Python to show CPU, MEMORY AND DISK usage:
+A CLI made in Python to show CPU, MEMORY AND DISK usage.
 
 This was made for my homelab.
 
