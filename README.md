@@ -9,3 +9,6 @@ This was made for my homelab.
 
 python3 server_status.py  
 python3 server_status.py -v 
+
+
+If it was installed, the commando is servercheck
