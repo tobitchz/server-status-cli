@@ -4,7 +4,7 @@ set -e
 
 echo "instalando servercheck..."
 
-URL="https://raw.githubusercontent.com/tobitchz/server-status-cli/main/servercheck.py"
+URL="https://raw.githubusercontent.com/tobitchz/server-status-cli/main/server_status_cli.py"
 DEST="/usr/local/bin/servercheck"
 
 sudo curl -L "$URL" -o "$DEST"
