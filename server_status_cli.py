@@ -1,3 +1,5 @@
+#!/usr/bin/env python3
+
 import os, socket, psutil, sys, time
 
 from rich.live import Live  # pyright: ignore[reportMissingImports]
