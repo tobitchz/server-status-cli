@@ -11,4 +11,4 @@ python3 server_status.py
 python3 server_status.py -v 
 
 
-If it was installed, the commando is servercheck
+If it was installed, the command is servercheck
